@@ -1,0 +1,17 @@
+{
+  "name": "interior-design-project",
+  "version": "1.0.0",
+  "description": "1st class project interior design.",
+  "main": "src/index.js",
+  "module": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cedrick Patterson",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "serve": "^13.0.2"
+  },
+  "keywords": []
+}
